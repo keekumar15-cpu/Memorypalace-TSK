@@ -1,0 +1,8 @@
+# Memory Palace: rebuildable/local-only files (run `mp.py reindex` to rebuild index.db)
+.claude/memory-palace/index.db
+.claude/memory-palace/index.rebuild.db
+.claude/memory-palace/*.tmp
+.claude/memory-palace/.env
+
+# Personal, machine-specific Claude Code settings (not shared)
+.claude/settings.local.json
